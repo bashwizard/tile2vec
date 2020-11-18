@@ -2,6 +2,7 @@ import os
 import gdal
 import imageio
 from time import time
+import numpy as np
 from collections import Counter
 from sklearn.preprocessing import StandardScaler
 from sklearn.decomposition import PCA
